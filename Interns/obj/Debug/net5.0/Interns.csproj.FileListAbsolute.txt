@@ -38,3 +38,9 @@ C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\ref\Interns.dll
 C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Interns.pdb
 C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Interns.genruntimeconfig.cache
 C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Interns.csproj.CopyComplete
+C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Razor\Pages\task2.cshtml.g.cs
+C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Razor\Pages\Task3.cshtml.g.cs
+C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Razor\Pages\Task4.cshtml.g.cs
+C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Razor\Pages\Task5.cshtml.g.cs
+C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Razor\Pages\Task6.cshtml.g.cs
+C:\Users\hasmi\source\repos\Interns\Interns\obj\Debug\net5.0\Razor\Pages\Task7.cshtml.g.cs
